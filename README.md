@@ -1,2 +1,2 @@
 # Formula_1-Data-Analysis
-This Python project dives into the world of Formula 1 using data analysis. We'll explore race results, driver performance, and car constructor statistics. By wrangling and visualizing the data, we'll uncover insights like factors affecting race wins, driver rivalries, and constructor dominance across seasons. 
+A Data Analysis project that dives into the world of Formula 1 using data analysis. We explore driver and constructor performance, grid stats, and trends across seasons. By wrangling and visualizing the data, we uncover insights like which factors influence race wins or how strategies differ between top teams. It's a thrilling journey to unveil the secrets hidden within F1 data!
